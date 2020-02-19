@@ -1,23 +1,10 @@
-# Open Source Projects of the Innovation Academy
-이노베이션 아카데미의 "오픈소스 프로젝트"에 오신 걸 환영합니다.  
-이 프로젝트에는 다음과 같은 하위 프로젝트를 포함합니다.
-- Project-X : 랜선친구들과 함께 하는 코딩학습시스템
+## Welcome to GitHub Pages
 
-## Project-X
-- apply-test : 입학선발 시스템
-- project db : 학습을 진행하기 위한 문제집 DB
-- gedius : 학습 진행관리 시스템
-- github.com : 개발한 코드를 리뷰받기 위해 저장하는 Repostory
-- evaluate : 평가시스템
-- code review :
-- mentor 
+You can use the [editor on GitHub](https://github.com/open-inno/open-inno.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-## 특징
-랜선 친구들과 코딩학습을 함께 하는 시스템
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-
-## Learner
-
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
