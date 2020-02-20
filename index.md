@@ -1,20 +1,28 @@
 # Open Source Projects of the Innovation Academy
-이노베이션 아카데미의 "오픈소스 프로젝트"에 오신 걸 환영합니다.  
-이 프로젝트에는 다음과 같은 하위 프로젝트를 포함합니다.
-- Project-X : 랜선친구들과 함께 하는 코딩학습시스템
+이노베이션 아카데미의 "오픈소스 프로젝트" 페이지에 오신 걸 환영합니다.<br>
+이 프로젝트에는 세부구상단계에 있으며, 오픈소스 프로젝트로 진행될 예정입니다.<br>
+그래서 누구나 자유롭게 참여할 수 있습니다.
 
 ## Project-X
+Project-X(가칭)는 "코딩학습시스템"을 만드는 프로젝트 이름입니다.
+- 이 프로젝트는 "원격기반의 코딩학습시스템"을 만듭니다.
+
+
+"소셜코딩"을 활용한 "프로젝트기반 소프트웨어 학습시스템"입니다.
+다음과 같은 단위 시스템으로 구성됩니다.
 - apply-test : 입학선발 시스템
-- project db : 학습을 진행하기 위한 문제집 DB
+- project-db : 학습을 진행하기 위한 과제별 문제집 DB
 - gedius : 학습 진행관리 시스템
-- github.com : 개발한 코드를 리뷰받기 위해 저장하는 Repostory
-- evaluate : 평가시스템
-- code review :
-- mentor 
+- rumtime-environment : 문제풀이 코드를 실행하기 위한 환경
+- github.com : 개발한 코드를 리뷰받기 위해 저장하는 Open Repostory
+- evaluate : 과제수행여부와 결과를 평가하는 시스템
+- code-review : 작성된 코드에 의견을 달고, 평가하는 시스템
+- mentor-counseling : 멘토와 상담하는 시스템
+- profiling-system-based-on-machine-learning : 학습결과를 기반으로 학습자의 역량을 프로파일링하는 시스템
 
-## 특징
-랜선 친구들과 코딩학습을 함께 하는 시스템
-
+## 목표
+Project-X는 집에서 혼자 랜선친구들과 코딩학습을 함께 할 수 있는 웹서비스입니다.
+- 과제는 프로젝트형 문제들로 구성됩니다.
 
 ## Learner
 
